@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(214, 157, 157);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: rgb(149, 109, 109);
+    color: rgb(214, 157, 157);
+    padding: 9px;
+    border-radius: 9px;
+}
+h2{
+    background-color: rgb(149, 109, 109);
+    color: rgb(214, 157, 157);
+    padding: 9px;
+    border-radius: 9px;
+}
+a{
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    justify-content:center;
+  
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(149, 109, 109);
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+
+
+.article-but {
+    background-color: rgb(149, 109, 109);
+    color: white;
+    padding: 9px;
+    border-radius: 9px;
+    
+}
+
+.vicky{
+    margin-top: 25px;
+}
+main img{
+    border: 2px solid rgb(149, 109, 109);
+}
